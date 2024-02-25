@@ -1,4 +1,4 @@
 <?php
-$plik = fopen("plik.txt", 'r');  ( r do odczytu a do zapisania )
+$plik = fopen("plik.txt", 'r');  ( r do odczytu w do zapisu a do dopisu/zapisu )
 fclose($plik);
 ?>
