@@ -1,0 +1,6 @@
+matematyka 3.5
+biologia 4.5
+wychowanie_fizyczne 4.4
+język_polski 2.8
+geografia 4.2
+język_niemiecki 5.2
